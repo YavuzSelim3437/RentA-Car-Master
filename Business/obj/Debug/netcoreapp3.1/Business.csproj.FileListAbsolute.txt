@@ -1,0 +1,5 @@
+C:\Users\YAVUZ\Desktop\RentACar-master\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\YAVUZ\Desktop\RentACar-master\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YAVUZ\Desktop\RentACar-master\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\YAVUZ\Desktop\RentACar-master\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\YAVUZ\Desktop\RentACar-master\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
